@@ -1,4 +1,5 @@
-# Idealbody.github.io
+<img width="15%" src="03 Código-fonte/WebContent/imagensib/logoibofc.png">
+
 # Projeto IDEALBODY - A Academia Ideal para seu Corpo Ideal
 
 Bem-vindo ao repositório do projeto IDEALBODY - A Academia Ideal para seu Corpo Ideal! Este projeto foi desenvolvido como parte de um projeto integrador e tem como objetivo criar um sistema de academia inovador, que atenda às necessidades de pessoas com pouco tempo disponível para treinar. O diferencial deste projeto é a possibilidade de acessar seus treinos por meio de um aplicativo.
@@ -58,3 +59,4 @@ Você pode entrar em contato com os participantes do projeto IDEALBODY através 
 - Fernanda Cardoso: [kelly2531@gmail.com]
 
 Agradecemos pelo seu interesse no projeto IDEALBODY e esperamos que ele possa contribuir para a promoção de um estilo de vida saudável e ativo.
+
